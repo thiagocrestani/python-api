@@ -1,0 +1,28 @@
+.DS_Store
+.idea
+
+# arquivos de configuração
+.env
+*.ini
+
+# arquivos de log
+*.log
+
+# arquivos gerados pelo sistema
+__pycache__/
+*.pyc
+
+# diretórios
+venv/
+.env/
+
+# arquivos de banco de dados
+*.db
+
+# outros arquivos
+*.bak
+*.swp
+
+# outros arquivos
+*.bak
+*.swp

@@ -1,0 +1,8 @@
+fastapi
+httpcore
+pytest
+pytest-cov
+SQLAlchemy
+uvicorn
+httpx
+
